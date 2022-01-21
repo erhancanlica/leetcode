@@ -15,3 +15,9 @@ O
 src/remove_elemet/Solution.java,6\8\683a38c2a3218ab087b9d83008db5282e3eb6455
 R
 "src/implement_strstr/Solution.java,6\3\63e3118157d705d6bb539bb5173b4fdf58d626c9
+X
+(src/search_insert_position/Solution.java,3\d\3d5ce63f08ceff9590e7e7f6e36e48e87dac435c
+R
+"src/maximum_subarray/Solution.java,a\b\ab79647d92019adab82d276995efec6ea4dd8037
+U
+%src/length_of_last_word/Solution.java,5\9\598eb6b3c7e1e7e499a2d4868a1ff0bf1fb14179
