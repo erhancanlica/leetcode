@@ -9,8 +9,6 @@ S
 #src/valid_parantheses/Solution.java,0\1\0196ebf2a153393a3000aed5305cb0e39a427585
 R
 "src/roman_to_integer/Solution.java,3\a\3a8f055d2d5f7def04db3372582613e2779dba2b
-`
-0src/remove_duplicates_sorted_array/Solution.java,1\5\15ec2241a4bf17769dcbea67c8eafe1cffe591cd
 O
 src/remove_elemet/Solution.java,6\8\683a38c2a3218ab087b9d83008db5282e3eb6455
 R
