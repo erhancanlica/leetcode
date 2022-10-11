@@ -13,3 +13,7 @@ n
 Ljava/com/aaroen/algorithm/medium/longest_palindormed_substring/Solution.java,0\a\0a59d7dacf477c51063ea9c43f09aab57d1bdcec
 q
 Ajava/com/aaroen/algorithm/easy/find_smallest_letter/Solution.java,b\c\bc9a866d916e6ed79e394bededd19dd027a3a6b0
+n
+>java/com/aaroen/algorithm/medium/reverse_integer/Solution.java,2\d\2d5c01f17bfbff275c7cf3939fa910cabf12ec94
+m
+=java/com/aaroen/algorithm/easy/roman_to_integer/Solution.java,e\e\ee175eb44821ff7883d0114e5a1d8b5e58a096c5
