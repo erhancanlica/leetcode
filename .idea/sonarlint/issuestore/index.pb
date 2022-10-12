@@ -17,3 +17,5 @@ n
 >java/com/aaroen/algorithm/medium/reverse_integer/Solution.java,2\d\2d5c01f17bfbff275c7cf3939fa910cabf12ec94
 m
 =java/com/aaroen/algorithm/easy/roman_to_integer/Solution.java,e\e\ee175eb44821ff7883d0114e5a1d8b5e58a096c5
+o
+?java/com/aaroen/algorithm/medium/integer_to_roman/Solution.java,1\5\1519c8c31aef5e05dc6894fc122425407b22036d
